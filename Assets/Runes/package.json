@@ -20,5 +20,12 @@
     "productivity",
     "runes"
   ],
-  "category": "Scripting"
+  "category": "Scripting",
+  "samples": [
+    {
+      "displayName": "Basic Usage",
+      "description": "A simple example of how to use the Runes library.",
+      "path": "Samples/BasicUsage"
+    }
+  ]
 }
