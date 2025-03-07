@@ -1,0 +1,24 @@
+{
+  "name": "com.hezaerd.runes",
+  "displayName": "Runes",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "description": "Runes: A Unity library that adds powerful attributes to speed up development, improve code readability, and reduce redundancy.",
+  "author": {
+    "name": "Hezaerd",
+    "url": "https://hezaerd.com"
+  },
+  "keywords": [
+    "attributes",
+    "unity",
+    "tools",
+    "validation",
+    "editor",
+    "runtime",
+    "code",
+    "readability",
+    "productivity",
+    "runes"
+  ],
+  "category": "Scripting"
+}
